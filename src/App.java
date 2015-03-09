@@ -5,6 +5,6 @@ public class App {
         for (int i = 0; i < text.length(); ++i) {
             System.out.print(text.charAt(i));
         }
-        System.out.println();
+        System.out.println("deep");
     }
 }

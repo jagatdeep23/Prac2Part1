@@ -1,6 +1,4 @@
-/**
- * Created by jc277043 on 9/03/15.
- */
+
 public class dhgdeg {
     public static void main(String[] args) {
         String text = "Thisisasimpletest\nOneTwoThree\nHelloworld!";
